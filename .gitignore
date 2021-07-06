@@ -1,2 +1,6 @@
 
 Web.config
+*.cs
+*.tt
+*.edmx
+*.diagram
